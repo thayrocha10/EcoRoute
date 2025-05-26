@@ -1,12 +1,42 @@
-- 👋 Hi, I'm @thayrocha10
-- 👀 I'm interested in technology, sustainability, and public health solutions
-- 🌱 I'm currently learning about smart cities and sustainable development
-- 💞️ I'm looking to collaborate on projects related to social impact and environmental innovation
-- 📫 How to reach me: [thaylanyrocha10@hotmail.com] or connect on LinkedIn [https://www.linkedin.com/in/thaylanyrocha/]
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I once organized a carpool system that reduced CO2 emissions by 47% for my team!
+# 🚀 EcoCarona - Sistema de Otimização de Caronas
+![GitHub last commit](https://img.shields.io/github/last-commit/seu-usuario/repo)
+![GitHub repo size](https://img.shields.io/github/repo-size/seu-usuario/repo)
 
-<!---
-thayrocha10/thayrocha10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Flask](https://img.shields.io/badge/Flask-2.0-lightgrey)
+![CO2](https://img.shields.io/badge/CO₂%20reduction-8kg/day-brightgreen)
+
+> Projeto desenvolvido como atividade extensionista do curso de Análise e Desenvolvimento de Sistemas - Gran Faculdade
+
+## 📌 Visão Geral
+Sistema que otimiza caronas compartilhadas entre colaboradores de instituições, reduzindo:
+- Emissões de carbono ✅
+- Custos com combustível ✅
+- Tempo de deslocamento ✅
+
+## ✨ Funcionalidades
+- **Algoritmo de roteirização** inteligente (Google Maps API)
+- **Cálculo automático** de emissões evitadas (fórmula EPA)
+- **Geração de relatórios** em PDF/Python
+- **Interface web** simples (Flask)
+
+## 🛠️ Tecnologias
+| Ferramenta | Uso |
+|------------|-----|
+| Python 3.10 | Lógica principal |
+| Pandas | Análise de dados |
+| Folium | Visualização de rotas |
+| PyPDF2 | Geração de relatórios |
+
+## 📦 Instalação
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/EcoCarona.git
+
+# Instale as dependências
+pip install -r requirements.txt
+
+# Execute
+python app.py
+## 🎓 Contexto Acadêmico
+Este projeto foi desenvolvido para a disciplina [Projeto Integrador] como parte dos requisitos do curso de ADS na Gran Faculdade
